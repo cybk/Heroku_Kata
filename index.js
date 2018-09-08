@@ -9,6 +9,6 @@ const server = http.createServer((req, res ) => {
     res.end('Hello Heroku\n');
 });
 
-server.listen(port, hostname, () => {
-    console.log(`Server running on port: ${port}`);
+server.listen(PORT, hostname, () => {
+    console.log(`Server running on port: ${PORT}`);
 });
