@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/cybk/Heroku_Kata/issues"
   },
-  "homepage": "https://github.com/cybk/Heroku_Kata#readme"
+  "homepage": "https://github.com/cybk/Heroku_Kata#readme",
+  "devDependencies": {
+    "eslint": "5.5.0",
+    "eslint-config-airbnb-base": "13.1.0",
+    "eslint-plugin-import": "2.14.0"
+  }
 }
