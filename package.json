@@ -12,6 +12,9 @@
   },
   "author": "Cybk",
   "license": "ISC",
+  "engines": {
+    "node": "10.9.0"
+  },
   "bugs": {
     "url": "https://github.com/cybk/Heroku_Kata/issues"
   },
